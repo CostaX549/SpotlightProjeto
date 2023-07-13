@@ -430,7 +430,7 @@ li:hover {
   width: 100px; /* Defina a largura desejada para as imagens */
   height: auto; /* Mantém a proporção original da imagem */
 }
-@media  (max-width:1280px) {
+@media  (max-width:1440px) {
   #remover-video {
    right: 1%;
    font-size: 12px;
