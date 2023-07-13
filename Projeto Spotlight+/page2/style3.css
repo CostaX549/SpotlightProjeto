@@ -253,6 +253,10 @@ footer div h1{
         min-width: 15%;
         
       }
+
+     header {
+        position: absolute;
+    }
 }
 @media (max-width:1000px){
   
