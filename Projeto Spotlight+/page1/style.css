@@ -348,7 +348,7 @@ body {
 /* Responsividade do site */
 
 
-@media (max-width:1280px){
+@media (max-width:1440px){
     header {
         height: 15px; /* Defina a altura desejada para o header em layouts responsivos */
         position: absolute;
