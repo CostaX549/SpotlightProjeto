@@ -1,0 +1,563 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ color:white;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(15,15,15);
+   
+}
+
+
+header {
+ 
+    display:flex;
+    justify-content: space-between;
+    z-index: 1;
+    background-color: rgb(15,15,15);
+    align-items: center;
+}
+
+
+
+
+
+
+
+#lixao{
+
+    font-weight: bold;
+   
+    font-size: 30px;
+   
+    
+    
+    
+
+}
+input[type="button"]:hover{
+    background-color: black;
+  
+}
+
+
+
+input[type="button"] {
+    
+    font-size: 12px;
+   
+    border: 1px solid rgb(190,153,58);
+    border-radius: 50px;
+    cursor: pointer;
+    color: white;
+}
+
+input[type="text"] {
+    padding: 10px 30px;
+    font-size: 12px;
+    background-color:white;
+    border: 1px solid rgb(190,153,58);
+    border-radius: 50px;
+    border: 0;
+    outline: 0;
+}
+#logo{
+  
+    width: 200px;
+    margin: auto;
+
+}
+
+
+
+#teste {
+  background-image:linear-gradient(to right,rgb(190,153,58),rgb(111,82,51));
+  
+
+  
+}
+
+#radiogaga{
+ 
+  background-image:linear-gradient(to right,rgb(190,153,58),rgb(111,82,51));
+  
+}
+
+
+
+#ts{
+    font-family:Roboto;
+}
+#ts2{
+    font-family:Roboto;
+}
+#ts3{
+    font-family:Roboto;
+}
+
+
+#video-overlay {
+  position: relative;
+  display: none;
+  
+  opacity: 0.8;
+
+  
+}
+
+  #videoPlayer {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer2 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer3 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1280px;
+     /* Ajuste o valor da altura conforme necessário */
+ 
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  
+  #videoPlayer4 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer5 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer6 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer7 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer8 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer9 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer10 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer11 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+  #videoPlayer12 {
+    width: 100%; /* Reduz o tamanho do vídeo */
+    max-width: 1250px;
+  
+              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
+              /* Adiciona um espaço entre o topo do video-player e a barra preta */
+              font-family: Arial, sans-serif; /* Define a fonte do texto */
+  
+    
+
+  }
+
+
+
+  
+
+
+
+ 
+ 
+
+
+  #main img:hover:not(.no-hover-transform) {
+    transform: scale(1.1); /* Aumente a escala da imagem quando o mouse estiver sobre ela */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+
+  #main img {
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+  }
+ 
+
+
+
+ 
+
+  li{
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+
+
+#navbar{
+    z-index: 2;
+    
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    height: 100%;
+    width: 350px;
+    background-color: rgb(15,15,15);
+  
+    
+    
+}
+ 
+
+
+ @media (max-width: 1000px) {
+  #navbar {
+     
+      width: 300px;
+  }
+  #menu{
+    animation-name: fade-in;
+    animation-duration: 0.5s;
+    padding: 10px;
+    margin-left: 30px;
+    position: absolute;
+  } 
+}
+
+
+li  img {
+  padding: 25px;
+}
+
+
+li:hover {
+  background-color: rgb(190,153,58);
+
+
+  
+}
+
+
+ a{
+    text-decoration: none;
+    color: rgb(255, 254, 254);
+    width: 100%;
+    
+    padding: 25px;
+}
+.hide{
+    left: -350px;
+    transition: 0.5s;
+}
+.show{
+    transition: 0.5s;
+    left:0px;
+    
+}
+.active{
+    background-color: rgb(190,153,58);
+}
+
+.active-2{
+  background-color: rgb(111,82,51);
+}
+
+.linha{
+     
+  margin: 7px;
+  border: 1px solid rgb(255, 254, 254);
+  width: 25px;
+}
+
+
+
+#menu{
+  animation-name: fade-in;
+ 
+  animation-duration: 0.5s;
+  padding: 10px;
+  margin-left: 30px;
+  position: fixed;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+
+
+
+
+#menu:hover {
+  transition: 0.5s;
+  background-color:rgba(255, 255, 255, 0.2) ;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.centered-footer {
+  text-align: center;
+  padding: 25px;
+}
+
+
+
+#remover-video {
+  position: absolute;
+  top: 20px;
+  transition: background-color 0.3s;
+  border-radius: 50%;
+  right: 18%;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 1;
+  display: none;
+}
+
+.d-flex {
+  justify-content: center;
+}
+.carousel-item img {
+  width: 100px; /* Defina a largura desejada para as imagens */
+  height: auto; /* Mantém a proporção original da imagem */
+}
+@media  (max-width:1280px) {
+  #remover-video {
+   right: 1%;
+   font-size: 12px;
+   top: 0px;
+   
+  }
+  #menu{
+    animation-name: fade-in;
+   
+    animation-duration: 0.5s;
+    padding: 5px;
+    margin-left: 20px;
+    position: absolute;
+    top: 2px;
+  } 
+  
+}
+
+@media  (min-width:1920px) {
+  #remover-video {
+   right: 13%;
+   font-size: 20px;
+   top: 0px;
+  }
+  #menu{
+    animation-name: fade-in;
+   
+    animation-duration: 0.5s;
+    padding: 10px;
+    margin-left: 20px;
+    position: fixed;
+    top: 2px;
+  } 
+  
+}
+
+
+
+
+
+
+
+  #remover-video:hover {
+    /* Estilos ao passar o mouse */
+    background-color: rgba(255, 255, 255, 0.2); /* Vermelho semi-transparente */
+  }
+
+
+
+
+
+
+
+
+
+
+.disable-scroll {
+  overflow: hidden;
+  height: 100vh;
+}
+  
+ 
+  
+
+.no-functions {
+  pointer-events: none; /* Desabilita eventos de clique e hover nos elementos */
+}
+
+.footer {
+  text-align: center;
+  margin-top: 90%; /* ajuste conforme necessário */
+  font: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.darken-mode {
+  background-color: rgb(190,153,58);
+}
+
+#switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 24px;
+  margin-left:10px;
+ 
+}
+
+#switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.4s;
+  border-radius: 24px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: rgb(111,82,51);
+}
+
+input:checked + .slider:before {
+  transform: translateX(15px);
+}
+
+
+
+
+
