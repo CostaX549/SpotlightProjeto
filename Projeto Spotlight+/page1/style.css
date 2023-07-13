@@ -483,6 +483,9 @@ body {
     footer div{
         margin-bottom: 3em;
     }
+    footer p {
+        width:80%
+    }
   
 .container h1 {
     font-size: 30px;
