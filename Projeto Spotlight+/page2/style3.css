@@ -234,7 +234,7 @@ footer div h1{
     transform: translate3d(0px,0px,0px);
     transition: 0.5s;
 }
-@media (max-width:1280px){
+@media (max-width:1440px){
    
     .sobre  {
         width: 100%;
