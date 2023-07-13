@@ -189,6 +189,9 @@ footer div h1{
    .section h1{
           font-size: 35px;
     }
+     header {
+        position: absolute;
+    }
     .section{
         height: 850px;
         width: 100%;
