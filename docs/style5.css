@@ -88,6 +88,15 @@ li:hover{
     
     padding: 20px;
 }
+
+p {
+    color:white;
+}
+
+h3 {
+    color: white;
+}
+
 .hide{
     left: -350px;
     transition: 0.5s;
