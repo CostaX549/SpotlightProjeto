@@ -202,7 +202,9 @@ footer div h1{
     footer{
         display: flex;
         flex-direction: column;
+       
     }
+    
     footer div h1{
         margin-bottom: 0;
         
@@ -230,7 +232,11 @@ footer div h1{
      footer{
          display: flex;
          flex-direction: column;
+         width: 100%;
      }
+    footer p {
+        width: 80%;
+    }
      footer div h1{
          margin-bottom: 0;
          
