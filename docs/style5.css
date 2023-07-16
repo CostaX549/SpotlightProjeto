@@ -322,4 +322,11 @@ footer div h1{
     transform: translateX(15px);
   }
 
+.direitos2 {
+    text-align: center;
+    margin-top: 90%; /* ajuste conforme necessário */
+    font: rgb(254,254,254);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
 
