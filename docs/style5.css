@@ -245,6 +245,14 @@ footer div h1{
      header {
         position: absolute;
      }
+     body{
+      
+        width:100%;
+      
+        margin:0;
+        overflow-x: hidden;
+         /* Adicione esta linha para ocupar a largura total da tela */
+    }
  }
 
  .darken-mode {
