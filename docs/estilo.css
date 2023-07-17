@@ -501,7 +501,7 @@ li:hover {
 
 .footer {
   text-align: center;
-  margin-top: 90%; /* ajuste conforme necessário */
+  margin-top: 50%; /* ajuste conforme necessário */
   font: black;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
