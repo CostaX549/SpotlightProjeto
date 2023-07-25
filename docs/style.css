@@ -350,7 +350,7 @@ body {
 
 @media (max-width:1440px){
     header {
-        height: 15px; /* Defina a altura desejada para o header em layouts responsivos */
+        height: 22px; /* Defina a altura desejada para o header em layouts responsivos */
         position: absolute;
       }
 
