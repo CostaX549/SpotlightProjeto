@@ -109,7 +109,7 @@ input[type="text"] {
   
 }
 
-  #videoPlayer {
+  .videoPlayer {
     width: 100%; /* Reduz o tamanho do vídeo */
     max-width: 1250px;
   
@@ -121,140 +121,7 @@ input[type="text"] {
 
   }
 
-  #videoPlayer2 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer3 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1280px;
-     /* Ajuste o valor da altura conforme necessário */
  
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  
-  #videoPlayer4 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer5 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer6 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer7 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer8 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer9 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer10 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer11 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
-
-  #videoPlayer12 {
-    width: 100%; /* Reduz o tamanho do vídeo */
-    max-width: 1250px;
-  
-              margin: 0 auto; /* Centraliza o vídeo horizontalmente */
-              /* Adiciona um espaço entre o topo do video-player e a barra preta */
-              font-family: Arial, sans-serif; /* Define a fonte do texto */
-  
-    
-
-  }
 
 
 
@@ -432,8 +299,8 @@ li:hover {
 }
 @media  (max-width:1440px) {
   #remover-video {
-   right: 1%;
-   font-size: 12px;
+   right: 15%;
+   font-size: 20px;
    top: 0px;
    
   }
@@ -446,7 +313,9 @@ li:hover {
     position: absolute;
     top: 2px;
   } 
-  
+  .videoPlayer {
+   max-width: 900px;
+  }
 }
 
 @media  (min-width:1920px) {
