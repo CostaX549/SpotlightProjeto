@@ -377,6 +377,15 @@ body {
         width: 100%;
        
       }
+
+      .info{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        
+    }
       
       body{
       
