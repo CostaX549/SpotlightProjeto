@@ -349,31 +349,27 @@ body {
 
 
 
-@media (max-width:1440px){
-   
-    .datas{
-        display: flex;
-        flex-direction: column;
-       
-    }
-    .png{
-        bottom: 5px;
-        width: 52px;
-    }
-    .png1{
-        bottom: 5px;
-        width: 52px;
-        
+@media (max-width: 1440px) {
+    .datas {
+        width: 90%; /* Reduzir a largura do container */
+        padding: 40px; /* Reduzir o espaçamento interno */
     }
 
-    .data{
-        margin-top: 15px;
+    .conteudo {
+        height: 200px; /* Reduzir a altura do conteúdo */
+        width: 320px; /* Reduzir a largura do conteúdo */
     }
-   
-  
-  
+
+     .conteudo p {
+        font-size: 14px; /* Tamanho de fonte padrão */
       
-
+    }
+    .conteudo h1 {
+        font-size: 20px;
+    }
+    .conteudo p {
+        width: 75%;
+    }
 }
 @media (max-width:1000px){
     header {
