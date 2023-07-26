@@ -229,17 +229,20 @@ footer div h1{
     transform: translate3d(0px,0px,0px);
     transition: 0.5s;
 }
-@media (max-width:1440px){
+@media (max-width:1600px){
    
     .sobre  {
-        width: 100%;
+      
+        width: 1200px;
         margin-right: 0;
         display: flex;
     }
    
       .objetivo {
-          width: 100%;
-          padding: 25px;
+        
+        width: 900px;
+          
+      
           display: flex;
           
       }
@@ -249,9 +252,8 @@ footer div h1{
         
       }
 
-     header {
-        position: absolute;
-    }
+  
+  
 }
 @media (max-width:1000px){
   
