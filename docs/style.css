@@ -348,16 +348,15 @@ body {
 /* Responsividade do site */
 
 
-
-@media (max-width: 1440px) {
+@media (max-width: 1600px) {
     .datas {
         width: 90%; /* Reduzir a largura do container */
         padding: 40px; /* Reduzir o espaçamento interno */
     }
 
     .conteudo {
-        height: 200px; /* Reduzir a altura do conteúdo */
-        width: 320px; /* Reduzir a largura do conteúdo */
+      
+        width: 310px; /* Reduzir a largura do conteúdo */
     }
 
      .conteudo p {
@@ -371,11 +370,11 @@ body {
         width: 75%;
     }
 }
-@media (max-width:1000px){
+@media (max-width:1024px){
     header {
         padding: 10px; /* Defina a altura desejada para o header em layouts responsivos */
         width: 100%;
-        position: absolute;
+     
        
       }
     
