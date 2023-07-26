@@ -373,18 +373,64 @@ body {
 }
 @media (max-width:1000px){
     header {
-        padding: 20px; /* Defina a altura desejada para o header em layouts responsivos */
+        padding: 10px; /* Defina a altura desejada para o header em layouts responsivos */
         width: 100%;
+        position: absolute;
        
       }
+    
 
-      .info{
+          .info{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         width: 100%;
         
+    }
+
+    .sobre{
+        border-radius: 0;
+       padding: 0;
+       width: 100%;
+       margin-right: 0;
+       display: flex;
+       padding-top: 50px;
+       padding-bottom: 50px;
+       box-shadow: 0 0 0 ;
+       
+      
+    }
+    .sobre p{
+        width: 70%;
+        margin-left: 200px;
+    }
+    .sobre h1{
+        margin-left: 200px;
+    }
+    iframe{
+        width: 70%;
+        margin-left: 200px;
+    }
+    .datas{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .png{
+        bottom: 5px;
+        width: 52px;
+    }
+    .png1{
+        bottom: 5px;
+        width: 52px;
+        
+    }
+    .conteudo1{
+        top: 0;
+    }
+    .data{
+        margin-top: 15px;
     }
       
       body{
