@@ -186,6 +186,9 @@ input[type="text"] {
     margin-left: 30px;
     position: absolute;
   } 
+    #remover-video {
+      font-size: 15px;
+    }
 }
 
 
@@ -316,6 +319,32 @@ li:hover {
   .videoPlayer {
    max-width: 900px;
   }
+}
+
+@media screen and (width:1600px) {
+  .videoPlayer {
+    max-width: 1100px;
+  
+  }
+  #remover-video {
+    right: 8%;
+    font-size: 20px;
+    top: 0px;
+    
+   }
+}
+
+@media screen and (width:1680px) {
+  .videoPlayer {
+    max-width: 1100px;
+  
+  }
+  #remover-video {
+    right: 8%;
+    font-size: 20px;
+    top: 0px;
+    
+   }
 }
 
 @media  (min-width:1920px) {
