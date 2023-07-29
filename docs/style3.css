@@ -233,17 +233,16 @@ footer div h1{
    
     .sobre  {
       
-        width: 1200px;
-        margin-right: 0;
-        display: flex;
+   width: 800px;
+        
     }
    
       .objetivo {
         
-        width: 900px;
+     width: 700px;
           
       
-          display: flex;
+        
           
       }
       .carousel .carousel-control-prev,
