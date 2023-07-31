@@ -334,13 +334,13 @@ body::-webkit-scrollbar {
 
 /* Estilizando o "polegar" (a parte da barra de rolagem que o usuário arrasta) */
 body::-webkit-scrollbar-thumb {
-  background-color: #f1f1f1; /* Cor do polegar */
+  background-color: #8e8e8e; /* Color of the thumb */
   border-radius: 5px; /* Borda arredondada */
 }
 
 /* Estilizando a trilha (o fundo da barra de rolagem) */
 body::-webkit-scrollbar-track {
-  background-color: transparent; /* Cor da trilha */
-  border-radius: 5px; /* Borda arredondada */
+   background-color: #1b1b1b;   /* Cor da trilha */
+   border-radius: 5px; /* Borda arredondada */
 }
 
